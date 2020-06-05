@@ -7,7 +7,7 @@ backports.shutil-get-terminal-size==1.0.0
 bleach==3.1.5
 configparser==4.0.2
 contextlib2==0.6.0.post1
-cryptography==2.1.4
+cryptography==2.3
 decorator==4.4.2
 defusedxml==0.6.0
 distlib==0.3.0
